@@ -1,0 +1,19 @@
+{
+    "roles": {
+        "banquier": "1524129829551734984"
+    },
+    "channels": {
+        "logsCasino": "1524136495798157482"
+    },
+    "categories": {
+        "tickets": "1524159285867843624"
+    },
+    "blackjack": {
+        "casinoWin": 55,
+        "draw": 5,
+        "playerWin": 40,
+        "blackjackMultiplier": 2,
+        "minBet": 20,
+        "maxBet": 200
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "1505620493036818662": {
+        "mise": 20,
+        "resultat": "casino",
+        "deck": [
+            {
+                "suit": "♣",
+                "raw": "J",
+                "value": 10,
+                "text": "♣ J"
+            },
+            {
+                "suit": "♥",
+                "raw": "7",
+                "value": 7,
+                "text": "♥ 7"
+            },
+            {
+                "suit": "♥",
+                "raw": "6",
+                "value": 6,
+                "text": "♥ 6"
+            },
+            {
+                "suit": "♣",
+                "raw": "3",
+                "value": 3,
+                "text": "♣ 3"
+            },
+            {
+                "suit": "♥",
+                "raw": "9",
+                "value": 9,
+                "text": "♥ 9"
+            },
+            {
+                "suit": "♥",
+                "raw": "5",
+                "value": 5,
+                "text": "♥ 5"
+            },
+            {
+                "suit": "♣",
+                "raw": "8",
+                "value": 8,
+                "text": "♣ 8"
+            },
+            {
+                "suit": "♣",
+                "raw": "7",
+                "value": 7,
+                "text": "♣ 7"
+            },
+            {
+                "suit": "♥",
+                "raw": "4",
+                "value": 4,
+                "text": "♥ 4"
+            },
+            {
+                "suit": "♣",
+                "raw": "6",
+                "value": 6,
+                "text": "♣ 6"
+            },
+            {
+                "suit": "♥",
+                "raw": "3",
+                "value": 3,
+                "text": "♥ 3"
+            },
+            {
+                "suit": "♣",
+                "raw": "5",
+                "value": 5,
+                "text": "♣ 5"
+            },
+            {
+                "suit": "♥",
+                "raw": "2",
+                "value": 2,
+                "text": "♥ 2"
+            },
+            {
+                "suit": "♣",
+                "raw": "A",
+                "value": 11,
+                "text": "♣ A"
+            },
+            {
+                "suit": "♦",
+                "raw": "10",
+                "value": 10,
+                "text": "♦ 10"
+            },
+            {
+                "suit": "♠",
+                "raw": "3",
+                "value": 3,
+                "text": "♠ 3"
+            },
+            {
+                "suit": "♦",
+                "raw": "A",
+                "value": 11,
+                "text": "♦ A"
+            },
+            {
+                "suit": "♦",
+                "raw": "J",
+                "value": 10,
+                "text": "♦ J"
+            },
+            {
+                "suit": "♠",
+                "raw": "4",
+                "value": 4,
+                "text": "♠ 4"
+            },
+            {
+                "suit": "♠",
+                "raw": "8",
+                "value": 8,
+                "text": "♠ 8"
+            },
+            {
+                "suit": "♦",
+                "raw": "7",
+                "value": 7,
+                "text": "♦ 7"
+            },
+            {
+                "suit": "♦",
+                "raw": "9",
+                "value": 9,
+                "text": "♦ 9"
+            },
+            {
+                "suit": "♠",
+                "raw": "9",
+                "value": 9,
+                "text": "♠ 9"
+            },
+            {
+                "suit": "♠",
+                "raw": "A",
+                "value": 11,
+                "text": "♠ A"
+            },
+            {
+                "suit": "♥",
+                "raw": "J",
+                "value": 10,
+                "text": "♥ J"
+            },
+            {
+                "suit": "♦",
+                "raw": "8",
+                "value": 8,
+                "text": "♦ 8"
+            },
+            {
+                "suit": "♥",
+                "raw": "K",
+                "value": 10,
+                "text": "♥ K"
+            },
+            {
+                "suit": "♥",
+                "raw": "A",
+                "value": 11,
+                "text": "♥ A"
+            },
+            {
+                "suit": "♠",
+                "raw": "6",
+                "value": 6,
+                "text": "♠ 6"
+            },
+            {
+                "suit": "♠",
+                "raw": "Q",
+                "value": 10,
+                "text": "♠ Q"
+            },
+            {
+                "suit": "♦",
+                "raw": "4",
+                "value": 4,
+                "text": "♦ 4"
+            },
+            {
+                "suit": "♠",
+                "raw": "10",
+                "value": 10,
+                "text": "♠ 10"
+            },
+            {
+                "suit": "♦",
+                "raw": "3",
+                "value": 3,
+                "text": "♦ 3"
+            },
+            {
+                "suit": "♥",
+                "raw": "Q",
+                "value": 10,
+                "text": "♥ Q"
+            },
+            {
+                "suit": "♣",
+                "raw": "K",
+                "value": 10,
+                "text": "♣ K"
+            },
+            {
+                "suit": "♣",
+                "raw": "10",
+                "value": 10,
+                "text": "♣ 10"
+            },
+            {
+                "suit": "♣",
+                "raw": "Q",
+                "value": 10,
+                "text": "♣ Q"
+            },
+            {
+                "suit": "♥",
+                "raw": "8",
+                "value": 8,
+                "text": "♥ 8"
+            },
+            {
+                "suit": "♦",
+                "raw": "5",
+                "value": 5,
+                "text": "♦ 5"
+            },
+            {
+                "suit": "♦",
+                "raw": "K",
+                "value": 10,
+                "text": "♦ K"
+            },
+            {
+                "suit": "♠",
+                "raw": "5",
+                "value": 5,
+                "text": "♠ 5"
+            },
+            {
+                "suit": "♥",
+                "raw": "10",
+                "value": 10,
+                "text": "♥ 10"
+            },
+            {
+                "suit": "♠",
+                "raw": "J",
+                "value": 10,
+                "text": "♠ J"
+            },
+            {
+                "suit": "♣",
+                "raw": "9",
+                "value": 9,
+                "text": "♣ 9"
+            },
+            {
+                "suit": "♣",
+                "raw": "4",
+                "value": 4,
+                "text": "♣ 4"
+            }
+        ],
+        "joueur": [
+            {
+                "suit": "♦",
+                "raw": "2",
+                "value": 2,
+                "text": "♦ 2"
+            },
+            {
+                "suit": "♠",
+                "raw": "2",
+                "value": 2,
+                "text": "♠ 2"
+            },
+            {
+                "suit": "♦",
+                "raw": "Q",
+                "value": 10,
+                "text": "♦ Q"
+            },
+            {
+                "suit": "♣",
+                "raw": "2",
+                "value": 2,
+                "text": "♣ 2"
+            }
+        ],
+        "croupier": [
+            {
+                "suit": "♠",
+                "raw": "7",
+                "value": 7,
+                "text": "♠ 7"
+            },
+            {
+                "suit": "♦",
+                "raw": "6",
+                "value": 6,
+                "text": "♦ 6"
+            },
+            {
+                "suit": "♠",
+                "raw": "K",
+                "value": 10,
+                "text": "♠ K"
+            }
+        ],
+        "scoreJoueur": 16,
+        "scoreCroupier": 23
+    }
+}
